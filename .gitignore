@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.aistudio/
+.fmd2-data/
+public/assets/aistudio/
+*.log
+.planning/tmp/
+dist-electron/
